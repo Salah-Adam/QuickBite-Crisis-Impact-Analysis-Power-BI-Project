@@ -3,7 +3,7 @@ Codebasic`s 17th Resume Project Challenge
 
  ## 📌 Project Objective
 The Objective of this project is to Provide Insights for Crisis Recovery in an Online Food Delivery Startup
-<a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/Media_Problem%20Statement.pdf">Read more ...</a>
+<a href="https://github.com/Salah-Adam/QuickBite-Crisis-Impact-Analysis-Power-BI-Project/blob/main/resources/RPC_18_Problem_Statement.pdf">Read more ...</a>
 
 ## Resources
 - Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/23">Challenge</a>
